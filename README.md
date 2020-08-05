@@ -46,7 +46,7 @@ Depois disto, você pode tanto criar o arquivo .huskyrc na raiz do projeto ou ad
   }
 ```
 
-Isso já bastaria para conseguirmos criar os nossos commits semânticos. Contudo, para deixar ainda mais completa essa config, iremos utilizar o commitizen/cli para deixar mais contextualiza e visual.
+Isso já bastaria para conseguirmos criar os nossos commits semânticos. Contudo, para deixar ainda mais completa essa config, iremos utilizar o commitizen/cli para deixar mais contextualizada e visual.
 
 ## Istalando e configurando o commitzen/cli
 
