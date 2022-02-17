@@ -1,6 +1,6 @@
 # setup-conventional-commits
 
-#### Este documento visa descrever a configuração necessária para se realizar **commits** semânticos e padronizadoss de uma maneira contextualizada e simples utilizando três libs: [commitlint](https://github.com/conventional-changelog/commitlint), [commitizen/cli](https://github.com/commitizen/cz-cli) e a [husky](https://github.com/typicode/husky).
+#### Este documento visa descrever as configurações necessárias para se realizar **commits** semânticos e padronizadoss de uma maneira contextualizada e simples utilizando três libs: [commitlint](https://github.com/conventional-changelog/commitlint), [commitizen/cli](https://github.com/commitizen/cz-cli) e a [husky](https://github.com/typicode/husky).
 
 ## Para saber mais sobre commits [semânticos](https://commitlint.js.org/#/).
 
